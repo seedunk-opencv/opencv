@@ -1,2 +1,2 @@
 # OpenCV
-![图片](@/index.jpg)
+![图片](README/index.jpg)
